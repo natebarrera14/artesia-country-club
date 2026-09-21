@@ -1,0 +1,23 @@
+export const billingUrl = 'https://secure.west.prophetservices.com/artesiaonlinebilling/';
+export const contactUrl = 'https://sparrow-sheep-7aha.squarespace.com/#block-b07dc74da0291665ed71';
+export const newsletterUrl = 'https://sparrow-sheep-7aha.squarespace.com/#block-738d935595233a331c35';
+export const arrow = '<span aria-hidden="true">↗</span>';
+export const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+export function header(home = false) {
+  return `<a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header ${home ? '' : 'solid'}" id="site-header">
+    <a class="brand" href="/" aria-label="Artesia Country Club home"><img src="/images/club-logo.png" alt="" width="80" height="45"><span>ARTESIA<small>COUNTRY CLUB</small></span></a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="main-navigation"><span></span><span></span></button>
+    <nav class="main-navigation" id="main-navigation" aria-label="Main navigation"><a href="/#the-course">The Course</a><a href="/#club-life">Club Life</a><a href="/acc-events/">Calendar</a><a href="/memberships/">Membership</a><a class="member-link" href="${billingUrl}" target="_blank" rel="noopener">Member login ${arrow}</a><a class="button button-small" href="/#visit">Plan your visit ${arrow}</a></nav>
+  </header>`;
+}
+
+export function footer() {
+  return `<footer class="site-footer"><div class="container footer-top"><a class="brand" href="/" aria-label="Artesia Country Club home"><img src="/images/club-logo.png" alt="" width="80" height="45"><span>ARTESIA<small>COUNTRY CLUB</small></span></a><p>A part of Artesia.<br>A place of your own.</p><a class="text-link" href="${newsletterUrl}" target="_blank" rel="noopener">Join our email list ${arrow}</a></div>
+  <div class="container footer-columns"><div><h2>Find us</h2><address>2701 W Richey Ave<br>Artesia, NM 88210</address><a href="https://www.google.com/maps/search/?api=1&query=Artesia+Country+Club+2701+W+Richey+Ave+Artesia+NM" target="_blank" rel="noopener">Get directions ↗</a></div><div><h2>Get in touch</h2><a href="tel:+15757462055">Clubhouse · (575) 746-2055</a><a href="tel:+15757466732">Pro Shop · (575) 746-6732</a><a href="${contactUrl}" target="_blank" rel="noopener">Contact form ↗</a></div><div><h2>Clubhouse hours</h2><p>Tuesday–Saturday · 11 am–9 pm<br>Sunday · 11 am–6 pm<br>Monday · Closed</p></div><div><h2>At the club</h2><a href="/board/">Board of Directors</a><a href="/management/">Meet our team</a><a href="/bylaws/">Club bylaws</a></div></div><div class="container footer-bottom"><p>© ${new Date().getFullYear()} Artesia Country Club</p><a href="/#resources">Member resources</a><a href="/course-map/">Course map & imagery credits</a><a href="#main">Back to top ↑</a></div></footer>`;
+}
+
+export function documentPage({ title, description, path = '/', body, home = false }) {
+  return `<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="theme-color" content="#111D18"><title>${esc(title)}</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="https://www.artesiacc.com${path}"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><meta property="og:type" content="website"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:url" content="https://www.artesiacc.com${path}"><meta property="og:image" content="https://www.artesiacc.com/images/course-clubhouse-graded-v2.jpg"><meta name="twitter:card" content="summary_large_image"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet"><link rel="stylesheet" href="/src/style.css">${home ? '<link rel="preload" as="image" href="/images/course-clubhouse-graded-v2.jpg">' : ''}<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@type':'GolfCourse',name:'Artesia Country Club',url:'https://www.artesiacc.com',telephone:'+1-575-746-2055',address:{'@type':'PostalAddress',streetAddress:'2701 W Richey Ave',addressLocality:'Artesia',addressRegion:'NM',postalCode:'88210',addressCountry:'US'}})}</script></head><body class="${home ? 'home-page' : 'resource-page'}">${header(home)}${body}${footer()}<script type="module" src="/src/main.js"></script></body></html>`;
+}

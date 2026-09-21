@@ -1,0 +1,65 @@
+{
+  "capturedAt": "2026-09-16",
+  "source": "https://www.artesiacc.com",
+  "stableSourceHost": "https://sparrow-sheep-7aha.squarespace.com",
+  "calendarEmbedUrl": "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FDenver&bgcolor=%23ffffff&src=Y2x1YmhvdXNlQGFydGVzaWFjYy5jb20&src=Y182NGU4MzA0MzZiOGIwMDlhMDU3M2QyYzZhMzgwYTljZDY4NWVmNTBlYTkwYmU5ZDY4M2IyYmJlMjRmOTQxMDQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19lYjE5ODgwZjcyY2MyNTk2YTI4NzQwMzAxNThiMDQ5MTY1MDE2ZjYzYTNjZWIyYWIyNGQyZGU1YzQ1NWRiZWMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y185M2NhNDM5NjFjMGUyMGMyYzM3NmRhMTVjMzU4ZDZjMzFjMzJmODZiNjNiOGEzMzg2NGY3ODczZmRiZTUxZmE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18zMzZlM2RiYzMxOWVmNDU3OWJkMzI4Y2NjZmVmMzU1ZTAzM2NjNjEyODJlZWEwOTFiYmQ2NzliNWNiM2RkOWYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23D50000&color=%234285F4&color=%23616161&color=%2333B679&color=%23A79B8E",
+  "memberBillingUrl": "https://secure.west.prophetservices.com/artesiaonlinebilling/",
+  "forms": [
+    {
+      "kind": "newsletter",
+      "action": "Not exposed in scraped HTML",
+      "method": "POST",
+      "fields": [
+        {
+          "name": "fname",
+          "id": null,
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "lname",
+          "id": null,
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "id": "email-yui_3_17_2_1_1559597368474_10440-field",
+          "type": "email",
+          "required": true
+        }
+      ]
+    },
+    {
+      "kind": "contact",
+      "action": "Not exposed in scraped HTML",
+      "method": "Not exposed in scraped HTML",
+      "fields": [
+        {
+          "name": "fname",
+          "id": "name-yui_3_17_2_1_1683067188159_12416-fname-field",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "lname",
+          "id": "name-yui_3_17_2_1_1683067188159_12416-lname-field",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": null,
+          "id": "email-yui_3_17_2_1_1683067188159_12417-field",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": null,
+          "id": "textarea-yui_3_17_2_1_1683067188159_12419-field",
+          "type": "textarea",
+          "required": true
+        }
+      ]
+    }
+  ]
+}

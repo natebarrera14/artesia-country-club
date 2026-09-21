@@ -1,0 +1,43 @@
+{
+  "source": "https://www.artesiacc.com",
+  "cssSource": "https://static1.squarespace.com/static/versioned-site-css/6465251e31edb2766a14ae9b/23/5c5a519771c10ba3470d8101/6465251e31edb2766a14aea3/1825/site.css?nocustom=true",
+  "declarations": {
+    "heading-font-font-family": [
+      "\"Cinzel\""
+    ],
+    "body-font-font-family": [
+      "\"Lato\""
+    ],
+    "primary-button-font-font-family": [
+      "\"Cinzel\""
+    ],
+    "white-hsl": [
+      "0,0%,98.82352941%"
+    ],
+    "lightAccent-hsl": [
+      "0,0%,98.82352941%"
+    ],
+    "accent-hsl": [
+      "28.73239437,56.8%,75.49019608%"
+    ],
+    "darkAccent-hsl": [
+      "261.81818182,11.11111111%,19.41176471%"
+    ],
+    "black-hsl": [
+      "261.81818182,11.11111111%,19.41176471%"
+    ],
+    "heading-font-font-weight": [
+      "400"
+    ],
+    "body-font-font-weight": [
+      "300"
+    ]
+  },
+  "computedHex": {
+    "white-hsl": "#FCFCFC",
+    "lightAccent-hsl": "#FCFCFC",
+    "accent-hsl": "#E4BF9D",
+    "darkAccent-hsl": "#302C37",
+    "black-hsl": "#302C37"
+  }
+}

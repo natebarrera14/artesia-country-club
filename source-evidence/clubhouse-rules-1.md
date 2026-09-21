@@ -1,0 +1,56 @@
+Source: https://www.artesiacc.com/clubhouse-rules-1
+Captured: 2026-09-16; HTTP 200
+
+![](https://images.squarespace-cdn.com/content/v1/6465251e31edb2766a14ae9b/1684350260547-YD90CDV6U5LXGDA1ZQPQ/DSC_0617.jpg)
+
+# ARTESIA COUNTRY CLUB Golf RULES
+
+May 10, 2023
+
+1\. All members and guests are required to register in the Pro Shop before playing. A guest who resides in the Artesia trade area is limited to playing six times in a calendar year other than public days and all tournaments. Public days are Tuesdays and Thursdays. Guest fees are $17.50 for 9 holes and $25.00 for 18 holes. Members are responsible for the actions of the guests.
+
+2\. A valid driver's license is required to operate a golf cart. Only two riders per cart. If your bags are on a cart, you are considered a rider. Carts are to be kept on the cart paths where required, using the 90-degree rule only in the fairways where permitted. Golf carts shall at no time be driven in the rough or driving range.
+
+3\. You may not start on #10 or any other hole without express permission from the Pro Shop. Anyone who starts on #10 will not have any privileges on #1. Tee Times are not required, but those with tee times will have priority.
+
+4\. If a group loses one clear hole on the players in front of them they must allow the group following to play through. Onesomes and twosomes have no priority on the course. Groups of 6 are allowed if all members of the group are riding. However, common courtesy still applies. A group of 6 shall allow other groups to play through if they are slowing play. The Board of Directors reserves the right to cancel this rule if problems occur.
+
+5\. Juniors under the age of 13 are required to have an adult with them on Friday afternoons, and until 6:00 p.m. on weekends.
+
+6\. Members will not take or use golf clubs, clothing, or anything not belonging to them without written consent of the owner, nor shall an employee be allowed to open any locker except at the request of the member holding same. All golf clubs will be kept in club storage or taken home. No carts or clubs allowed in the locker rooms.
+
+7\. All cans, bottles, and other trash shall be placed in the proper receptacles. Littering of the course or abuse of club carts or equipment will not be tolerated.
+
+8\. Times will be posted when play is allowed in case of a golf outing for special groups. During tournament play, times will be posted on the final day when play is allowed if possible. Please check your calendars for tournament information.
+
+9\. Artesia Country Club will not be responsible for individual golf equipment. The Pro will be responsible for inventory of members clubs kept in club storage.
+
+10\. No pets are allowed on the course.
+
+11\. No practice is allowed on any area of the course itself. All practice should be limited to the driving range and putting greens.
+
+12\. The golf course and club are closed on MONDAY unless open for a special event. Unless you have business with either the club manager or golf professional, please do not try to use the club on the clays it is closed.
+
+13\. All rules established by the Pro for tournaments supersede any previous rules.
+
+14\. The Board of Directors must approve any major changes to the golf course.
+
+15\. A warning will be given for violation of these rules. If violations continue, the member will be brought to the Board of Directors for disciplinary action. The Board will have the authority to fine violators.
+
+16\. Any member who does damage to the course or property of the club by their actions will be responsible for any repairs to the full damage and extent it takes to repair equipment. This includes damage to greens, markers, and carts. Damages and repair costs are the responsibility of the violator.
+
+17\. Rules for the use of the golf course by the High School Golf team will be subject to approval each year by the Board of Directors.
+
+18\. Please repair your ball marks, replace all divots and rake sand bunkers. Players are responsible for any damage their ball causes.
+
+19\. Golf dress code is Smart Casual “Presentable Clean Shirts, Pants or Shorts”. The dress code applies to the putting green, driving range, practice areas, pro shop and locker rooms as well as the golf course. Complete lists of acceptable and unacceptable attire are attached and posted in the locker rooms and the pro shop. It is a member’s responsibility to inform their guest of this policy prior to their visit to Artesia Country Club. Golf attire is permitted in the bar and clubhouse.
+
+20\. Member Misconduct Policy: Voting on reprimand, suspension, or expulsion a quorum of seven ACC directors is as by-laws dictates.
+
+a) Any verbal abuse, obscene gestures, rude or unbecoming behavior toward staff members will be reported to the directors and the directors by majority vote will determine what course of action to be taken reprimand, temporary suspension, or permanent expulsion from ACC. Repeated offense will result in permanent expulsion from ACC.
+
+b) Physical abuse to any staff member will result in automatic expulsion and termination from ACC.
+
+c) Any verbal, obscene, or physical altercation between members of ACC could result in reprimand, temporary suspension, or permanent expulsion.
+
+d) Staff members are defined as house manager, wait staff, cooks, comptroller, greens keeper staff, pro, and pro shop staff

@@ -1,0 +1,55 @@
+[
+  {
+    "url": "https://www.artesiacc.com/events/fab-ag-invitational-1",
+    "title": "FAB AG Invitational \u2014 ACC",
+    "status": 200,
+    "links": [
+      "https://www.artesiacc.com/cart",
+      "https://www.artesiacc.com/events",
+      "http://www.google.com/calendar/event?action=TEMPLATE&text=FAB%20AG%20Invitational&dates=20260918T150000Z/20260920T010000Z",
+      "https://www.artesiacc.com/events/fab-ag-invitational-1?format=ical",
+      "https://www.artesiacc.com/events/911-memorial-golf-tournament-3",
+      "https://www.artesiacc.com/events/artesia-general-hospital-3"
+    ]
+  },
+  {
+    "url": "https://www.artesiacc.com/events/artesia-general-hospital-3",
+    "title": "Artesia General Hospital \u2014 ACC",
+    "status": 200,
+    "links": [
+      "https://www.artesiacc.com/cart",
+      "https://www.artesiacc.com/events",
+      "http://www.google.com/calendar/event?action=TEMPLATE&text=Artesia%20General%20Hospital&dates=20261003T150000Z/20261004T010000Z",
+      "https://www.artesiacc.com/events/artesia-general-hospital-3?format=ical",
+      "https://www.artesiacc.com/events/fab-ag-invitational-1",
+      "https://www.artesiacc.com/events/dwarfism-tourney"
+    ]
+  },
+  {
+    "url": "https://www.artesiacc.com/events/dwarfism-tourney",
+    "title": "Dwarfism Tourney \u2014 ACC",
+    "status": 200,
+    "links": [
+      "https://www.artesiacc.com/cart",
+      "https://www.artesiacc.com/events",
+      "http://www.google.com/calendar/event?action=TEMPLATE&text=Dwarfism%20Tourney&dates=20261017T150000Z/20261018T010000Z",
+      "https://www.artesiacc.com/events/dwarfism-tourney?format=ical",
+      "https://www.artesiacc.com/events/artesia-general-hospital-3",
+      "https://www.artesiacc.com/events/tournament-of-faith-2"
+    ]
+  },
+  {
+    "url": "https://www.artesiacc.com/events/tournament-of-faith-2",
+    "title": "Tournament of Faith \u2014 ACC",
+    "status": 200,
+    "links": [
+      "https://www.artesiacc.com/cart",
+      "https://www.artesiacc.com/events",
+      "http://www.google.com/calendar/event?action=TEMPLATE&text=Tournament%20of%20Faith&dates=20261024T150000Z/20261025T010000Z",
+      "https://www.artesiacc.com/events/tournament-of-faith-2?format=ical",
+      "https://www.artesiacc.com/s/Tournament-2026-B.jpg",
+      "https://www.artesiacc.com/s/Tournament-2026-A.jpg",
+      "https://www.artesiacc.com/events/dwarfism-tourney"
+    ]
+  }
+]
