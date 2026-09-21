@@ -1,0 +1,205 @@
+{
+  "capturedAt": "2026-09-16",
+  "source": "https://www.artesiacc.com",
+  "stableSourceHost": "https://sparrow-sheep-7aha.squarespace.com",
+  "calendarEmbedUrl": "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FDenver&bgcolor=%23ffffff&src=Y2x1YmhvdXNlQGFydGVzaWFjYy5jb20&src=Y182NGU4MzA0MzZiOGIwMDlhMDU3M2QyYzZhMzgwYTljZDY4NWVmNTBlYTkwYmU5ZDY4M2IyYmJlMjRmOTQxMDQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19lYjE5ODgwZjcyY2MyNTk2YTI4NzQwMzAxNThiMDQ5MTY1MDE2ZjYzYTNjZWIyYWIyNGQyZGU1YzQ1NWRiZWMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y185M2NhNDM5NjFjMGUyMGMyYzM3NmRhMTVjMzU4ZDZjMzFjMzJmODZiNjNiOGEzMzg2NGY3ODczZmRiZTUxZmE4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18zMzZlM2RiYzMxOWVmNDU3OWJkMzI4Y2NjZmVmMzU1ZTAzM2NjNjEyODJlZWEwOTFiYmQ2NzliNWNiM2RkOWYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23D50000&color=%234285F4&color=%23616161&color=%2333B679&color=%23A79B8E",
+  "memberBillingUrl": "https://secure.west.prophetservices.com/artesiaonlinebilling/",
+  "forms": [
+    {
+      "kind": "newsletter",
+      "action": "Not exposed in scraped HTML",
+      "method": "POST",
+      "fields": [
+        {
+          "name": "fname",
+          "id": null,
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "lname",
+          "id": null,
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "email",
+          "id": "email-yui_3_17_2_1_1559597368474_10440-field",
+          "type": "email",
+          "required": true
+        }
+      ],
+      "formId": "6465253631edb2766a14b135",
+      "blockId": "block-738d935595233a331c35",
+      "originalFormUrl": "https://sparrow-sheep-7aha.squarespace.com/#block-738d935595233a331c35",
+      "requiredEvidence": "Name fieldset and email wrapper have required classes; no native required attributes. Squarespace validates."
+    },
+    {
+      "kind": "contact",
+      "action": "Not exposed in scraped HTML",
+      "method": "Not exposed in scraped HTML",
+      "fields": [
+        {
+          "name": "fname",
+          "id": "name-yui_3_17_2_1_1683067188159_12416-fname-field",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": "lname",
+          "id": "name-yui_3_17_2_1_1683067188159_12416-lname-field",
+          "type": "text",
+          "required": true
+        },
+        {
+          "name": null,
+          "id": "email-yui_3_17_2_1_1683067188159_12417-field",
+          "type": "email",
+          "required": true
+        },
+        {
+          "name": null,
+          "id": "textarea-yui_3_17_2_1_1683067188159_12419-field",
+          "type": "textarea",
+          "required": true
+        }
+      ],
+      "formId": "6465251e31edb2766a14aeb2",
+      "formName": "Website Footer Form",
+      "blockId": "block-b07dc74da0291665ed71",
+      "originalFormUrl": "https://sparrow-sheep-7aha.squarespace.com/#block-b07dc74da0291665ed71",
+      "spamProtection": "Source reCAPTCHA and hidden honeypot",
+      "requiredEvidence": "Visible required labels, aria-required on names/email, required wrapper on message."
+    }
+  ],
+  "crawl": {
+    "provider": "Firecrawl through Composio",
+    "discoveredUrlCount": 142,
+    "successfullyScraped": 18,
+    "corePages": 14,
+    "upcomingEventDetailPages": 4,
+    "failedSelectedPages": 0,
+    "maxLinkEdgesFromHomepage": 2,
+    "scope": "same canonical hostname; archive URLs discovered but not expanded"
+  },
+  "formPreservation": {
+    "mode": "link to original Squarespace forms",
+    "reason": "Source action endpoints are not exposed. Stable Squarespace host returns X-Frame-Options SAMEORIGIN so cross-origin frame embedding is blocked. Copying visible fields would not preserve source delivery.",
+    "deliveryTest": "Not performed; no live messages or subscriptions submitted.",
+    "dependency": "Keep original Squarespace site/subscription active. Verify built-in host and form routing after any primary-domain change.",
+    "newProviderCredentials": "No Web3Forms key or Formspree endpoint supplied; none invented."
+  },
+  "calendars": {
+    "sourcePage": "https://www.artesiacc.com/acc-events",
+    "provider": "Google Calendar",
+    "timezone": "America/Denver",
+    "sourceCount": 6,
+    "names": [
+      "clubhouse@artesiacc.com",
+      "ACC Private Events",
+      "ACC Public Member Events",
+      "ACC Standing Events",
+      "Golf Tournament",
+      "Holidays in United States"
+    ],
+    "strategy": "Retain exact existing embed sources; do not replace with hard-coded sample dates. Google controls public calendar access and content."
+  },
+  "eventIndex": {
+    "source": "https://www.artesiacc.com/events",
+    "retainedOriginal": "https://sparrow-sheep-7aha.squarespace.com/events",
+    "calendarExports": "Each original event retains its Google Calendar template link and ?format=ical ICS export. Built-in Squarespace host should be used for original routes after domain cutover.",
+    "registration": "Four upcoming event pages audited. Tournament of Faith links team and sponsorship image forms; other three pages have GGID/tee-time information but no online registration forms."
+  },
+  "downloads": [
+    {
+      "title": "Membership application",
+      "source": "https://www.artesiacc.com/s/Artesia-Country-Club-New-Member-Application.pdf",
+      "sourcePage": "https://www.artesiacc.com/memberships",
+      "localPath": "/documents/membership-application.pdf",
+      "bytes": 81525,
+      "sha256": "e9d4a3e8b71c59c8f4042a0f666ad0f6ebc0c4f5cd41302fa2845fd3709c8831"
+    },
+    {
+      "title": "Junior membership application",
+      "source": "https://www.artesiacc.com/s/2025-JUNIOR-MEMBERSHIPS.doc",
+      "sourcePage": "https://www.artesiacc.com/memberships",
+      "localPath": "/documents/junior-membership-application.doc",
+      "bytes": 79360,
+      "sha256": "592414b49074e0b3e388e61c80d95286cc3932fdf0c154ab4b447321797b308f"
+    },
+    {
+      "title": "Cart Club contract",
+      "source": "https://www.artesiacc.com/s/Artesia-Country-Club-Cart-Club-Contract.pdf",
+      "sourcePage": "https://www.artesiacc.com/memberships",
+      "localPath": "/documents/cart-club-contract.pdf",
+      "bytes": 170952,
+      "sha256": "b8560fd8c90c2257c8bde818c58459abc5c2a8fb0024c60b9b1f0c32d02edaf7"
+    },
+    {
+      "title": "2026 tournament schedule",
+      "source": "https://www.artesiacc.com/s/TOURNAMENT-SCHEDULE-2026-GGID.xlsx",
+      "sourcePage": "https://www.artesiacc.com/events",
+      "localPath": "/documents/tournament-schedule-2026.xlsx",
+      "bytes": 24798,
+      "sha256": "a4e8623708988442800e4af9afa6134ab1c5c265ad43cb8d603512e3440b8340"
+    },
+    {
+      "title": "Tournament of Faith team entry",
+      "source": "https://www.artesiacc.com/s/Tournament-2026-B.jpg",
+      "sourcePage": "https://www.artesiacc.com/events/tournament-of-faith-2",
+      "localPath": "/documents/tournament-of-faith-team-entry.jpg",
+      "bytes": 266169,
+      "sha256": "3e35c9ecb1476712ee68d612bd7cbb4961a044f46040f4a99ee494331580f1e8"
+    },
+    {
+      "title": "Tournament of Faith sponsorship entry",
+      "source": "https://www.artesiacc.com/s/Tournament-2026-A.jpg",
+      "sourcePage": "https://www.artesiacc.com/events/tournament-of-faith-2",
+      "localPath": "/documents/tournament-of-faith-sponsorship-entry.jpg",
+      "bytes": 268625,
+      "sha256": "238431512b9c9e4cca9f4ead3b0b0ba00827b75ee3ad868b4d0eda804498c5ef"
+    }
+  ],
+  "unavailableResources": [
+    {
+      "title": "Private Cart License Agreement",
+      "source": "https://www.artesiacc.com/memberships",
+      "evidence": "New Private Cart License Agreement Coming Soon is a self-link; no file available."
+    }
+  ],
+  "discrepancies": [
+    {
+      "subject": "Course days",
+      "sourceA": "https://www.artesiacc.com/golf",
+      "valueA": "Tuesday through Sunday",
+      "sourceB": "https://www.artesiacc.com/",
+      "valueB": "Tuesday\u2013Saturday 8 am\u2013sunset",
+      "handling": "Do not silently infer Sunday hours; direct visitors to ProShop for confirmation."
+    },
+    {
+      "subject": "Wednesday weekly feature price",
+      "source": "https://www.artesiacc.com/clubhouse",
+      "value": "$1400",
+      "handling": "Preserve source discrepancy; confirm before pricing publication."
+    },
+    {
+      "subject": "ProShop promotion",
+      "source": "https://www.artesiacc.com/proshop",
+      "value": "Final day for special orders November 23, 2025",
+      "handling": "Expired as of capture; retain as dated archive only, not current promotion."
+    },
+    {
+      "subject": "Tournament of Faith date",
+      "source": "https://www.artesiacc.com/events/tournament-of-faith-2",
+      "value": "October 24, 2026",
+      "attachmentValue": "October 25, year not shown",
+      "handling": "Use current dated official source; attachment is visual reference."
+    },
+    {
+      "subject": "Event geolocation metadata",
+      "source": "https://www.artesiacc.com/events/fab-ag-invitational-1",
+      "value": "40.7207559, -74.0007613",
+      "handling": "This is a New York default inconsistent with verified Artesia address; exclude from course geometry and structured data."
+    }
+  ]
+}

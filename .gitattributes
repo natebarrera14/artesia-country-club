@@ -1,0 +1,5 @@
+public/images/course-aerial.jpg filter=lfs diff=lfs merge=lfs -text
+public/images/course-clubhouse.jpg filter=lfs diff=lfs merge=lfs -text
+public/images/course-context.jpg filter=lfs diff=lfs merge=lfs -text
+public/video/course-drone-mobile.mp4 filter=lfs diff=lfs merge=lfs -text
+public/video/course-drone.mp4 filter=lfs diff=lfs merge=lfs -text
